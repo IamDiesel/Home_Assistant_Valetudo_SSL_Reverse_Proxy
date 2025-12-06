@@ -231,7 +231,7 @@ Home assistant and Valetudo will still be accessible via http.
 
 ## Bonus Twingate configuration
 If you want to access this setup remotly (from outside your WLAN/LAN), one possibility is to install twingate on the second raspberry pi running Raspberry OS.
-I described how to setup twingate in this project:
+A tutorial on how to install twingate on a raspberry pi can be found here: https://youtu.be/IYmXPF3XUwo?si=4Y7z4IXgol_eoOkB
 
 After setup, Twingate needs to be reconfigured in order to access homeassistant / valetudo remotely via SSL.
 Add SSL for Homeassistant:
