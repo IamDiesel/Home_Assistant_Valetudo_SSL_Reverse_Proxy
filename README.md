@@ -203,7 +203,7 @@ Next, configure Homeassistant Companion App as follows
 
 ## iOS: Homeassistant Companion App
 Copy rootCA.pem to your phone
-Go to files and click on rootCA.pem. Load profile. Go to settings. Right under the user select profile and install it. Search vor certificates and enable the newly installed certificate
+Go to files and click on rootCA.pem. Load profile. Go to settings. Right under the user select profile and install it. Search for certificates and enable the newly installed certificate
 Next, configure Homeassistant Companion App as follows
 <img width="241" height="539" alt="image" src="https://github.com/user-attachments/assets/289228d8-da31-491b-b031-5cf65e7902a0" />
 
@@ -234,6 +234,7 @@ If you want to access this setup remotly (from outside your WLAN/LAN), one possi
 A tutorial on how to install twingate on a raspberry pi can be found here: https://youtu.be/IYmXPF3XUwo?si=4Y7z4IXgol_eoOkB
 
 After setup, Twingate needs to be reconfigured in order to access homeassistant / valetudo remotely via SSL.
+
 Add SSL for Homeassistant:
 
 <img width="501" height="396" alt="image" src="https://github.com/user-attachments/assets/beb7edd6-5acf-4cba-97aa-c927773bafc6" />
